@@ -1,0 +1,29 @@
+.top{
+    margin-top: 1%;
+}
+
+hr.line{
+    border-top: 3px double #8c8b8b;
+}
+
+.moreThanFriends{
+    transform: rotate(90deg);
+}
+
+.title {
+    text-align: center;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+.survSelect{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.info{
+    border-right: dotted;
+}
+
